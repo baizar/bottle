@@ -1,4 +1,0 @@
-bottle
-======
-
-examples with bottle
